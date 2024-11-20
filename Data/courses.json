@@ -1,0 +1,55 @@
+{
+    "courses":[
+        {
+          "id": 1,
+          "title": "Introduction to Programming",
+          "slug": "introduction-to-programming",
+          "description": "Learn the basics of programming using Python. This course covers fundamental concepts and hands-on exercises.",
+          "price": 49.99,
+          "instructor": "John Doe",
+          "isFeatured": true,
+          "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y291cnNlfGVufDB8fDB8fHww"
+        },
+        {
+          "id": 2,
+          "title": "Web Development Bootcamp",
+          "slug": "web-development-bootcamp",
+          "description": "Become a full-stack web developer. Learn HTML, CSS, JavaScript, and modern frameworks like React and Node.js.",
+          "price": 99.99,
+          "instructor": "Jane Smith",
+          "isFeatured": true,
+          "image": "https://images.unsplash.com/photo-1488751045188-3c55bbf9a3fa?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y291cnNlfGVufDB8fDB8fHww"
+        },
+        {
+          "id": 3,
+          "title": "Data Science with Python",
+          "slug": "data-science-with-python",
+          "description": "Master data science techniques using Python. This course includes data analysis, visualization, and machine learning.",
+          "price": 79.99,
+          "instructor": "Alice Johnson",
+          "isFeatured": false,
+          "image": "https://images.unsplash.com/photo-1557804483-ef3ae78eca57?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y291cnNlfGVufDB8fDB8fHww"
+        },
+        {
+          "id": 4,
+          "title": "Graphic Design Essentials",
+          "slug": "graphic-design-essentials",
+          "description": "Learn the fundamentals of graphic design. This course covers typography, color theory, and using design software.",
+          "price": 59.99,
+          "instructor": "Bob Brown",
+          "isFeatured": false,
+          "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y291cnNlfGVufDB8fDB8fHww"
+        },
+        {
+          "id": 5,
+          "title": "Advanced Machine Learning",
+          "slug": "advanced-machine-learning",
+          "description": "Dive deep into machine learning algorithms and techniques. This course covers neural networks, deep learning, and AI applications.",
+          "price": 149.99,
+          "instructor": "Carol Wilson",
+          "isFeatured": true,
+          "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y291cnNlfGVufDB8fDB8fHww"
+        }
+      ]
+      
+}
